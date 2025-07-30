@@ -34,6 +34,7 @@ Python: Core programming language for backend logic.
  Project Structure
 
 voice-mental-health-chatbot/
+
 ├── app.py              
 └── requirements.txt 
 
@@ -57,7 +58,7 @@ At the bottom, the app reminds users that it is a support tool only — not a li
  Installation and Setup Guide
 
  1. Clone the Repository:
-    git clone .git
+    git clone https://github.com/ambily08/Chatbot.git
    cd voice-mental-health-chatbot
 
  2. Install Dependencies
